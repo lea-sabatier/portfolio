@@ -64,6 +64,18 @@ Below you will find some of the projects I have developed.
 
 ### SQL
 - [Project SQL](./python_project/README.md)
+
+**Goal:**
+
+**Description:** 
+
+**Skills:**
   
 ### Power Bi
 - [Dashboard](./python_project/README.md)
+
+**Goal:**
+
+**Description:** 
+
+**Skills:**
