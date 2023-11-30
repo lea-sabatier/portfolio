@@ -22,15 +22,13 @@ Below you will find some of the projects I have developed alone or in a team.
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Table of Contents
-- [About](https://github.com/lea-sabatier/portfolio_lea_sabatier/edit/main/README.md#about)
+- [About me](https://github.com/lea-sabatier/portfolio_lea_sabatier/edit/main/README.md#about-me)
 - [Portfolio Projects](https://github.com/lea-sabatier/portfolio_lea_sabatier/edit/main/README.md#portfolio-projects)
   - Python
-    -  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - Power Bi
-    - 
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
