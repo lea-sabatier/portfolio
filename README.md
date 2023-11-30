@@ -5,9 +5,9 @@
 Hi, I'm Léa! After graduating with a master's degree in STAPS IEAP (Engineering and Ergonomics of Physical Activity), I felt the need to diversify my skills and explore the constantly evolving world of data analysis. This decision led me to begin training as a data analyst at the Wild Code School in Lyon, where I'm currently immersed in an exciting world of programming and data mining.
 
 Below you will find some of the projects I have developed.
----------------
-### What I currently know 🧠
 
+### What I currently know 🧠
+---------------
 #### Data Collecting 
 - query SQL databases 
 
@@ -28,10 +28,9 @@ Below you will find some of the projects I have developed.
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
----------------
 
 ### What I will know at the end of my training 🚀
-
+---------------
 #### Data Collecting
 - make requests via API REST
 - webscraping
@@ -55,8 +54,10 @@ Below you will find some of the projects I have developed.
 ## My projects
 
 ### Python
-- [Projet Python](./python_project/README.md)
+- [Project Python](./python_project/README.md)
 
 ### SQL
-
+- [Project SQL](./python_project/README.md)
+  
 ### Power Bi
+- [Dashboard](./python_project/README.md)
