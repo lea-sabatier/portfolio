@@ -1,6 +1,7 @@
 # Léa Sabatier - Data Analyst Junior Portfolio
 ## About me
 
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leasabatier/)
 
 ## Table of Contents
 - [About](https://github.com/lea-sabatier/portfolio_lea_sabatier/edit/main/README.md#about)
