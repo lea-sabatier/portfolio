@@ -24,12 +24,7 @@ Below you will find some of the projects I have developed.
 
 ### What I'm currently mastering 💻
 #### Collecting Data
-- 
-- 
-- 
--
-- 
-- 
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 
