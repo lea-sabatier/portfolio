@@ -6,7 +6,7 @@ Hi, I'm Léa! After graduating with a master's degree in STAPS IEAP (Engineering
 
 Below you will find some of the projects I have developed.
 
-### What I'm currently mastering 💻
+### What I'm currently know 💻
 #### Data Collecting 
 - query SQL databases 
 
@@ -29,7 +29,7 @@ Below you will find some of the projects I have developed.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-### What I will master at the end of my training 🚀
+### What I will know at the end of my training 🚀
 #### Data Collecting
 - make requests via API REST
 - webscraping
