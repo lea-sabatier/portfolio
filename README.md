@@ -31,10 +31,10 @@ Below you will find some of the projects I have developed.
 
 ### What I will know at the end of my training 🚀
 #### Data Collecting
+---------------
 - make requests via API REST
 - webscraping
 - geocoding
-- understanding the challenges of the RGPD
 
 #### Data Processing
 - library seaborn
@@ -44,7 +44,6 @@ Below you will find some of the projects I have developed.
 #### Data modeling and presentation
 - create dashboards with Tableau
 - Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
-- 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
