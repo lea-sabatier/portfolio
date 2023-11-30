@@ -6,7 +6,7 @@ Hi, I'm Léa! After graduating with a master's degree in STAPS IEAP (Engineering
 
 Below you will find some of the projects I have developed.
 
-### What I'm currently know 💻
+### What I currently know 💻
 ---------------
 #### Data Collecting 
 - query SQL databases 
