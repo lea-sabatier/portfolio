@@ -8,10 +8,10 @@ Below you will find some of the projects I have developed.
 
 ### What I currently know 🧠
 ---------------
-#### Data Collecting 
+1. #### Data Collecting 
 - query SQL databases 
 
-#### Data Processing
+2. #### Data Processing
 - using python algorithms 
 - library Numpy, Pandas, Matplotlib  
 
