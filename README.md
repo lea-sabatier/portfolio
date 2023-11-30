@@ -56,6 +56,12 @@ Below you will find some of the projects I have developed.
 ### Python
 - [Project Python](./python_project/README.md)
 
+**Goal:**
+
+**Description:** 
+
+**Skills:**
+
 ### SQL
 - [Project SQL](./python_project/README.md)
   
