@@ -1,7 +1,11 @@
 # Léa Sabatier - Data Analyst Junior Portfolio
 ## About me
+Hi, I'm Léa! After graduating with a master's degree in STAPS IEAP (Engineering and Ergonomics of Physical Activity), I felt the need to diversify my skills and explore the constantly evolving world of data analysis. This decision led me to begin training as a data analyst at the Wild Code School in Lyon, where I'm currently immersed in an exciting world of programming and data mining.
+
+Below you will find some of the projects I have developed alone or in a team.
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leasabatier/)
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -13,7 +17,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![VS Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)]
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
