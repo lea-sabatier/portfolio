@@ -32,7 +32,7 @@ Below you will find some of the projects I have developed.
 
 ### What I will know at the end of my training 🚀
 ---------------
-=== Data Collecting
+---Data Collecting
 
 - make requests via API REST
 - webscraping
