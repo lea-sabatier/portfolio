@@ -7,6 +7,7 @@ Hi, I'm Léa! After graduating with a master's degree in STAPS IEAP (Engineering
 Below you will find some of the projects I have developed.
 
 ### What I'm currently know 💻
+---------------
 #### Data Collecting 
 - query SQL databases 
 
@@ -30,8 +31,9 @@ Below you will find some of the projects I have developed.
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ### What I will know at the end of my training 🚀
-#### Data Collecting
 ---------------
+_Data Collecting_
+
 - make requests via API REST
 - webscraping
 - geocoding
