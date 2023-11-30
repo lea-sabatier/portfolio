@@ -8,11 +8,10 @@ Below you will find some of the projects I have developed.
 
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+
+
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
@@ -23,9 +22,33 @@ Below you will find some of the projects I have developed.
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ### What I'm currently mastering 💻
-#### Collecting Data
+#### Data Collecting 
+- query SQL databases ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
+
+#### Data Processing
+- using python algorithms ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- library Numpy, Pandas, Matplotlib ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+#### Data modeling and presentation
+- statistics
+- create dashboards with PowerBi
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 
-### what I will master at the end of my training 🚀
+
+
+### What I will master at the end of my training 🚀
+#### Data Collecting
+- make requests via API REST
+- webscraping
+- geocoding
+- understanding the challenges of the RGPD
+
+#### Data Processing
+- library seaborn
+- reprocess missing values and outliers
+- Machine Learning
+
+#### Data modeling and presentation
+- create dashboards with Tableau
+- Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
