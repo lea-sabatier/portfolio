@@ -62,8 +62,6 @@ Below you will find some of the projects I have developed.
 
 **Skills:**
 
-
-
 ### SQL
 - [Project SQL](./python_project/README.md)
 
