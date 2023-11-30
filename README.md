@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leasabatier/)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ## Table of Contents
 - [About](https://github.com/lea-sabatier/portfolio_lea_sabatier/edit/main/README.md#about)
