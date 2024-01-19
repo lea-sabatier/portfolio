@@ -64,7 +64,7 @@ Below you will find some of the projects I have developed.
 
 ---------------
 ## My projects
-|Language/Tool|Goal|Description|Skills|Link|
+|Language/Tool|Goals|Description|Skills|Link|
 |--|--|--|--|--|
 |Python||||[Project Python](./python_project/README.md)|
 |SQL||||[Project SQL](./python_project/README.md)|
