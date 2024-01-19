@@ -10,15 +10,19 @@ Below you will find some of the projects I have developed.
 ---------------
 
 #### Data Collecting 
-- query SQL databases 
+- query SQL databases
+- make requests via API REST
+- geocoding
 
 #### Data Processing
 - using python algorithms 
-- library Numpy, Pandas, Matplotlib  
+- library Numpy, Pandas, Matplotlib, Seaborn
+- reprocess missing values and outliers
 
 #### Data modeling and presentation
 - statistics
-- create dashboards with PowerBi
+- create dashboards with PowerBi & Tableau
+- Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,30 +30,37 @@ Below you will find some of the projects I have developed.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ### What I will know at the end of my training 🚀
 ---------------
 #### Data Collecting
-- make requests via API REST
-- webscraping
-- geocoding
+- Webscraping
 
 #### Data Processing
-- library seaborn
-- reprocess missing values and outliers
-- Machine Learning
+- Machine Learning (Scikit-Learn)
+- Regex
+  
+#### ETL
+- Talend
+- Dataiku
 
-#### Data modeling and presentation
-- create dashboards with Tableau
-- Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
+#### Version Control
+- Git
 
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+#### RGPD
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---------------
 ## My projects
