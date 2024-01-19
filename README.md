@@ -68,7 +68,7 @@ Below you will find some of the projects I have developed.
 |--|--|--|--|--|
 |Python||||[Project Python](./python_project/README.md)|
 |SQL||||[Project SQL](./python_project/README.md)|
-|Power BI|- Perform data-driven analysis <br> - Present relevant visualizations <br> - Propose advice to help make decisions|You have to imagine that I'm a data analyst at a famous headhunting company specializing in data-related jobs.  Sales people have data all over the world, and I have to work out where they can set up a new office, in order to capture the most interesting profiles. <br> The dataset is composed of 607 job, with company,  the applicant location, the job title, the contract, the remote ratio, the company size, the salary and the work year. |Pre-processing with Python <br> DAX language <br> Power BI visualizations |[Dashboard](./python_project/README.md)|
+|Power BI| <ul> <li> Perform data-driven analysis</li> <li> Present relevant visualizations </li> <li> Propose advice to help make decisions </li> </ul>|You have to imagine that I'm a data analyst at a famous headhunting company specializing in data-related jobs.  Sales people have data all over the world, and I have to work out where they can set up a new office, in order to capture the most interesting profiles. <br> The dataset is composed of 607 job, with company,  the applicant location, the job title, the contract, the remote ratio, the company size, the salary and the work year. |Pre-processing with Python <br> DAX language <br> Power BI visualizations |[Dashboard](./python_project/README.md)|
 
 ### Python
 - [Project Python](./python_project/README.md)
