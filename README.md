@@ -67,6 +67,9 @@ Below you will find some of the projects I have developed.
 |Language/Tool|Goal|Description|Skills|Link|
 |--|--|--|--|--|
 |Python||||[Project Python](./python_project/README.md)|
+|SQL||||[Project SQL](./python_project/README.md)|
+|Power BI|Create a dashboard 
+Propose advice to help make decisions|||[Dashboard](./python_project/README.md)|
 
 ### Python
 - [Project Python](./python_project/README.md)
