@@ -69,4 +69,5 @@ Below you will find some of the projects I have developed.
 |Python||||[Project Python](./python_project/README.md)|
 |SQL||||[Project SQL](./python_project/README.md)|
 |Power BI| <ul> <li> Perform data-driven analysis</li> <li> Present relevant visualizations </li> <li> Propose advice to help make decisions </li> </ul>|You have to imagine that I'm a data analyst at a famous headhunting company specializing in data-related jobs.  Sales people have data all over the world, and I have to work out where they can set up a new office, in order to capture the most interesting profiles. <br> The dataset is composed of 607 job, with company,  the applicant location, the job title, the contract, the remote ratio, the company size, the salary and the work year. | <ul> <li> Pre-processing with Python </li> <li> DAX language </li> <li> Power BI visualizations </li> </ul> |[Dashboard Power BI](https://github.com/lea-sabatier/portfolio/blob/main/Projects/Power%20BI%20project.md)|
+|Streamlit||||[Project Streamlit](./python_project/README.md)|
 
