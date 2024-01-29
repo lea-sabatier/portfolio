@@ -78,4 +78,6 @@ df
 df.to_csv('C:/Users/leasa/Documents/salaries_traiter.csv', index=False)
 ```
 
+# Interactive dashboard created with Power Bi
+### First page with general information by region : creation of a tooltip
 ![Photo 1](https://github.com/lea-sabatier/portfolio/blob/main/images/PowerBI_1.png)
