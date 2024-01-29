@@ -1,4 +1,4 @@
-### Top 3 most popular films
+### 1. Top 3 most popular films
 ```SQL
 SELECT original_title, popularity
 FROM movies
