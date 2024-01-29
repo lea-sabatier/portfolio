@@ -83,7 +83,7 @@ df.to_csv('C:/Users/leasa/Documents/salaries_traiter.csv', index=False)
 ![Photo 1](https://github.com/lea-sabatier/portfolio/blob/main/images/PowerBI_1.png)
 
 ### Second page focused on the US market: country with the most companies and employees
-![Photo 2](https://github.com/lea-sabatier/portfolio/blob/main/images/PowerBI_3.png)
+![Photo 2](https://github.com/lea-sabatier/portfolio/blob/main/images/PowerBI_2.png)
 
 ### Third page focused on the European market: a growth market
 Note: here we have the example of a user who wanted to target only data scientists 
