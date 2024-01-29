@@ -1,4 +1,4 @@
-#Pre-processing job categories in Python
+# Pre-processing job categories in Python
 
 ```python
 # Importing data
@@ -32,6 +32,8 @@ noms_plus_de_10_occurrences = occurrences[occurrences > 10].index.tolist()
 # Display the list
 print(noms_plus_de_10_occurrences)
 ```
+
+Categorize jobs into 5 main categories for better display in Power Bi
 
 ```python
 #"Manual" categorization of jobs that occur more than 10 times in the dataset into 5 categories
