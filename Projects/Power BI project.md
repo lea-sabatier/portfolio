@@ -77,3 +77,5 @@ df
 # Save in csv format
 df.to_csv('C:/Users/leasa/Documents/salaries_traiter.csv', index=False)
 ```
+
+![Photo 1](https://github.com/lea-sabatier/portfolio/blob/main/images/PowerBI_1.png)
