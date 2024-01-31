@@ -14,16 +14,16 @@ The report has been split into several tabs: context, customer service, partners
 - **Customer service Tab**  
   Analysis of customer satisfaction using data on orders (product categories, delivery times, dates), scores and comments.
   
-- **Partners Tab**
+- **Partners Tab**  
   Analysis of partners (here, sellers) using data on number of sellers, delivery, sales volume, number of photos published per product.
   
-- **Finance Tab**
+- **Finance Tab**  
   Presents financial analysis: sales, average basket, potential cost of reputation and rates of cancelled and unavailable orders. 
   
-- **Recommendations Tab**
+- **Recommendations Tab**  
   All recommendations reformulated following analysis.
   
-- **Bibliography**
+- **Bibliography**  
   Link to web articles cited and/or used in the analysis.
 
 ### Deployment of the Streamlit App
