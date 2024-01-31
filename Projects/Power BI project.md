@@ -1,4 +1,4 @@
-You can find the start file here : [Initial file](https://github.com/lea-sabatier/portfolio/blob/main/Files/project_powerbi.csv)
+You can find the start in CSV format file here : [Initial file](https://github.com/lea-sabatier/portfolio/blob/main/Files/project_powerbi.csv)
 
 # Pre-processing job categories in Python
 
