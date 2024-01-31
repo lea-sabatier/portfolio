@@ -73,6 +73,6 @@ for dossier in os.listdir('.'):
                 
 
 #on enregistre les deux fihciers finaux dans un dossier Excel 
-with pd.ExcelWriter('C:/Users/Sabatier Léa/RESULTATS/fichier_reliability_kin_avant_powerbi2.xlsx') as writer:  
+with pd.ExcelWriter('C:/Users/Sabatier Léa/RESULTATS/fichier_reliability_kin.xlsx') as writer:  
     resultat_final.to_excel(writer,sheet_name='resultat_po') 
     resultat_final_cad.to_excel(writer,sheet_name='resultat_cad')
