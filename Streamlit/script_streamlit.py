@@ -82,7 +82,7 @@ df_finance['cout_reputation'] = df_finance['review_score'].apply(assign_value)
 
 
 
-#Graphique 1 : Chiffre d'affaire (cout fixe + cout variable)
+#Code servant à l'onglet finance et partenaires
 #cout variable
 df_cout_variable = df_finance.dropna(subset=['order_delivered_customer_date'])
 cout_variable = int(df_cout_variable['price'].sum()*0.1)
@@ -121,7 +121,7 @@ CA['chiffre_affaire'] = CA['cumulative_sellers'] * 80 + CA['cout_variable']
 st.title("Rapport analytique Olist :mag:")
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Contexte", "Service Client", "Partenaires", "Finance", "Recommandations", "Bibliographie"])
 
-# Partionnement en onglet 
+# Partitionnement en onglet 
 with tab1:
     tabs.context.tab()
 
