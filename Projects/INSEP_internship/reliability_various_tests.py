@@ -71,7 +71,7 @@ for dossier in os.listdir('.'):
                     resultat_sujet_cad = pd.DataFrame(resultat_cad)  
                     resultat_final_cad = pd.concat([resultat_final_cad, resultat_sujet_cad])         
                         
-with pd.ExcelWriter('C:/Users/Sabatier Léa/RESULTATS/fichier_reliability_test_ass_avt_powerbi2.xlsx') as writer:
+with pd.ExcelWriter('C:/Users/Sabatier Léa/RESULTATS/fichier_reliability_test.xlsx') as writer:
     resultat_final.to_excel(writer,sheet_name='resultat_po') 
     resultat_final_cad.to_excel(writer,sheet_name='resultat_cad')   
 
