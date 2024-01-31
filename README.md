@@ -2,7 +2,7 @@
 ## About me 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leasabatier/)
 
-Hi, I'm Léa! I'm a young French woman. After graduating with a master's degree in STAPS IEAP (Engineering and Ergonomics of Physical Activity), I felt the need to diversify my skills and explore the constantly evolving world of data analysis. This decision led me to begin training as a data analyst at the Wild Code School in Lyon, where I'm currently immersed in an exciting world of programming and data mining.
+Hi, I'm Léa! I'm a young French woman. After graduating with a master's degree in STAPS IEAP (Engineering and Ergonomics of Physical Activity), I felt the need to diversify my skills and explore the constantly evolving world of data analysis. This decision led me to begin training as a data analyst at the Wild Code School in Lyon, where I'm currently immersed in an exciting world of programming and data analysis.
 
 Below you will find some of the projects I have developed.
 
