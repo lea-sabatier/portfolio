@@ -8,6 +8,12 @@ The structure of the code is organized in such a way as to make it easy to inter
 
 ### Streamlit App Structure
 
+In the "tabs" folder, each tab of the streamlit application is represented by a separate file (.py). 
+
+The "recommendations" and "bibliography" files contain exclusively markdown code.
+For the "Customer service", "Partners" and "Finance" files, a function has been created for each graphic. In addition, another function called "tab" has been created, enabling the various graphic functions to be called up and positioned as required, either in rows or columns, within the application.
+
+From here, a main file was created. It is used to call up the previous files in the order of our choice, in order to partition them into tabs within the streamlit application.
 
 ### Tabs
 - **Context Tab**  
