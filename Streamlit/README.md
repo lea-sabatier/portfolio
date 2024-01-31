@@ -3,7 +3,8 @@
 
 This folder contains the code to generate an analytical report on the Brazilian company Olist using Streamlit. For your information, it is written in French. 
 
-The report has been split into several tabs: context, customer service, partners, finance, recommendations and bibliography. 
+The report has been split into several tabs: context, customer service, partners, finance, recommendations and bibliography.
+The structure of the code is organized in such a way as to make it easy to interchange elements within tabs, or to add tabs and elements. 
 
 ### Streamlit App Structure
 
