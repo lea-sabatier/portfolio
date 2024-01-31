@@ -64,7 +64,7 @@ def chiffre_affaire(CA):
                  payent 80 BRL/mois pour utiliser celle-ci. Les revenus variables correspondent aux commandes qui ont été livrés. Vous récupérez
                  10% sur le prix de chaque commande.
                  On remarque que le CA augmente au cours du temps jusqu'à août 2018 avant de chuter considérablement les 2 derniers mois dû à 
-                 très peu de ventes recensés sur la base de donnée. 
+                 très peu de ventes recensées sur la base de donnée. 
         """)
 
 def panier_moyen(df_order, df_order_payment):
@@ -107,12 +107,12 @@ def panier_moyen(df_order, df_order_payment):
 
     with st.expander("Voir explication"):
         st.write("""
-            Vous trouverez ci-dessus le panier moyen. Les valeurs aberrantes ont été supprimé avant de réaliser ce graphique.
-                 Le panier moyen est en moyenne de 109 BRL et 50% des clients ont au minimum commandés pour 92 BRL. Sur la base de ce graphique, 
-                 vous pourriez proposer une livraison gratuite à partir d'un certains montants afin d'acquérir de nouveaux clients et d'augmenter
-                 votre panier.
-                 Nous vous proposons de fixer la livraison gratuite à partir de 150 BRL car seulement 25% des commandes (Q3) se situent
-                 sous ce prix. 
+           Vous trouverez ci-dessus le panier moyen. Les valeurs extrêmes ont été supprimées avant de réaliser ce graphique. 
+           Le panier moyen est en moyenne de 109 BRL et 50% des clients ont au minimum commandé pour 92 BRL. 
+               Sur la base de ce graphique, vous pourriez proposer une livraison gratuite à partir d'un 
+               certain montant afin d'acquérir de nouveaux clients et d'augmenter votre panier. 
+               Nous vous proposons de fixer la livraison gratuite à partir de 150 BRL car 
+               seulement 25% des commandes (Q3) se situent sous ce prix.
         """)
 
 def cout_reput_potentiel(df_finance):
