@@ -7,7 +7,7 @@ import xlwt
 from fonction import donnees_lode_par_seconde
 
 # Chemin du dossier racine
-root_path = 'C:/Users/Sabatier Léa/Documents/Stage INSEP/Donnees_test/GM/Fichier_brut_Lode'
+root_path = 'C:/Users/Sabatier Léa/Fichier_brut_Lode'
 
 # Boucle à travers tous les répertoires et fichiers dans le dossier racine et ses sous-dossiers
 for dirpath, dirnames, filenames in os.walk(root_path):
