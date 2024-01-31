@@ -5,62 +5,8 @@ import numpy as np
 from scipy import stats
 from plotnine import ggplot, aes, facet_grid, labs, geom_point, geom_boxplot, scale_color_manual, geom_hline, annotate,geom_text
 
-#ancien graph 
-"""
-data = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/Donnees_test/test_graph.xlsx', sheet_name='validity test cst')
-
-
-#colors = ['red', 'green', 'blue', 'yellow', 'orange']
-
-# Calcul moyenne et écart type 
-mean = data['FAD'].mean()
-std = data['FAD'].std()
-
-mean_2 = data['LOD'].mean()
-std_2 = data['LOD'].std()
-
-fig, ax = plt.subplots()
-
-ax.scatter(data['x1'], data['FAD'], color='blue', alpha=0.5)
-# Moyenne
-ax.hlines(y=mean, xmin=2.9, xmax=3.1, linewidth=3, color='black')
-# Ecart type sup 
-ax.hlines(y=mean-std, xmin=2.9, xmax=3.1, linewidth=1, color='black')
-#Ecart type inf 
-ax.hlines(y=mean+std, xmin=2.9, xmax=3.1, linewidth=1, color='black')
-# Relier les traits pour créer la boîte
-ax.vlines(x=2.9, ymin=mean-std, ymax=mean+std, linewidth=1, color='black')
-ax.vlines(x=3.1, ymin=mean-std, ymax=mean+std, linewidth=1, color='black')
-
-ax.scatter(data['x2'], data['LOD'], color='blue', alpha=0.5)
-# Moyenne
-ax.hlines(y=mean_2, xmin=3.9, xmax=4.1, linewidth=3, color='black')
-# Ecart type sup 
-ax.hlines(y=mean_2-std_2, xmin=3.9, xmax=4.1, linewidth=1, color='black')
-#Ecart type inf 
-ax.hlines(y=mean_2+std_2, xmin=3.9, xmax=4.1, linewidth=1, color='black')
-# Relier les traits pour créer la boîte
-ax.vlines(x=3.9, ymin=mean_2-std_2, ymax=mean_2+std_2, linewidth=1, color='black')
-ax.vlines(x=4.1, ymin=mean_2-std_2, ymax=mean_2+std_2, linewidth=1, color='black')
-
-#ax.set_title('Données moyennées de lensemble des capteurs à 60 RPM')
-ax.set_ylabel('Puissance (W)')
-
-ax.set_xticks([]) #supprime graduation en x 
-
-ax.text(3, data['FAD'].min() - 40, 'FAD', ha='center')
-ax.text(4, data['LOD'].min() - 40.75, 'LOD', ha='center')
-
-
-# Afficher le graphique
-plt.show()
-
-
-
-data = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/Donnees_test/test_graph.xlsx', sheet_name='Reliability_150')
-
-
-
+#######################################################################################################################
+data = pd.read_excel('C:/Users/Sabatier Léa/graph.xlsx', sheet_name='Reliability_150')
 
 # Calcul moyenne et écart type 
 mean = data['FAD'].mean()
@@ -106,16 +52,13 @@ ax.set_xticks([]) #supprime graduation en x
 ax.text(3, data['FAD'].min() - 1.75, 'FAD', ha='center')
 ax.text(4, data['LOD'].min() - 2.5, 'LOD', ha='center')
 
-
-# Afficher le graphique
 plt.show()
-"""
 
+#######################################################################################################################
 
+#boxplot
 
-#boxplot début résultat (test assioma)
-
-df = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/donnees_boxplot.xlsx', sheet_name='cad_boxplot_ass')
+df = pd.read_excel('C:/Users/Sabatier Léa/donnees_boxplot.xlsx', sheet_name='cad_boxplot_ass')
 
 couleurs = ["#3366cc", "#cc3333"]
 
@@ -131,13 +74,12 @@ plot_ass = (ggplot(df) +
     + scale_color_manual(values=couleurs)
 )
 
-#print(plot_ass)
 plot_ass.save("boxplot_ass_cad.png", dpi=600)
 
-"""
-#boxplot début résultat (test cst)
+#######################################################################################################################
+#boxplot (test cst)
 
-df = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/donnees_boxplot.xlsx', sheet_name='cad_boxplot_cst')
+df = pd.read_excel('C:/Users/Sabatier Léa/donnees_boxplot.xlsx', sheet_name='cad_boxplot_cst')
 
 plot_cst = (ggplot(df)
   + aes(x='instrument', y="donnees", color = 'instrument')
@@ -149,13 +91,13 @@ plot_cst = (ggplot(df)
         y = "Cadence (RPM)"
     )
 )
-#plot_cst.save("plot_cst_cad.png", dpi=600)
+plot_cst.save("plot_cst_cad.png", dpi=600)
 
-
+#######################################################################################################################
 
 #graphique coefficient de correlation (pearson)
 #couleurs = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#17becf']
-df = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/donnees_boxplot.xlsx', sheet_name='Feuil3')
+df = pd.read_excel('C:/Users/Sabatier Léa/donnees_boxplot.xlsx', sheet_name='Feuil3')
 sns.color_palette("tab10")
 
 category_colors = {
@@ -198,13 +140,12 @@ plt.legend(handles=legend_handles, loc='upper left')
 # Ajoutez des labels aux axes x et y
 plt.xlabel('Moyenne puissance LOD (W)')
 plt.ylabel('Moyenne puissance FAD (W)')
-
-#plt.show()
 plt.savefig('pearson_PO.png')
 
+####################################################################################################################### 
 
 #BLAND ALTMAN PLOT
-df = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/donnees_boxplot.xlsx', sheet_name='cad_altman')
+df = pd.read_excel('C:/Users/Sabatier Léa/donnees_boxplot.xlsx', sheet_name='cad_altman')
 
 biais = df['Diff'].mean()
 precision = df['Diff'].std()
@@ -236,10 +177,9 @@ plt.text(plt.xlim()[1] + decalage_x, LoA_inf, f'{LoA_inf:.2f}', va='center', ha=
 
 plt.xlabel('Moyenne cadence FAD & LOD (RPM)')
 plt.ylabel('Différence cadence FAD & LOD (RPM)')
-
-#plt.show()
 plt.savefig('bland-altman_cad.png')
 
+#######################################################################################################################
 
 #boxplot avec variabilité capteurs
 data = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/donnees_boxplot.xlsx', sheet_name='variabilite_cad')
@@ -258,7 +198,7 @@ couleurs = {
     'NL': '#17becf', 
 }
 
-# Ajoutez une nouvelle colonne 'color' dans votre DataFrame avec les couleurs correspondantes
+# Ajoutez une nouvelle colonne 'color' au dataframe
 data['color'] = data['initial'].map(couleurs)
 
 # Calcul moyenne et écart type 
@@ -316,15 +256,12 @@ ax.text(4, ax.get_ylim()[0]-4, '80', ha='center')
 ax.text(5, ax.get_ylim()[0]-4, '100', ha='center')
 ax.text(4, ax.get_ylim()[0]-8, 'Cadence (RPM)', ha='center')
 
+plt.savefig('variabilite_250-PO.png')
 
-# Afficher le graphique
-plt.show()
-
-#plt.savefig('variabilite_250-PO.png')
-
+#######################################################################################################################
 
 #boxplot avec variabilité capteurs pour cadence 
-data = pd.read_excel('C:/Users/Sabatier Léa/Documents/Stage INSEP/donnees_boxplot.xlsx', sheet_name='variabilite_cad')
+data = pd.read_excel('C:/Users/Sabatier Léa/donnees_boxplot.xlsx', sheet_name='variabilite_cad')
 
 #couleurs = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#17becf']
 
@@ -340,7 +277,7 @@ couleurs = {
     'NL': '#17becf', 
 }
 
-# Ajoutez une nouvelle colonne 'color' dans votre DataFrame avec les couleurs correspondantes
+# Ajoutez une nouvelle colonne 'color' 
 data['color'] = data['initial'].map(couleurs)
 
 # Calcul moyenne et écart type 
@@ -353,7 +290,7 @@ std_2 = data['FAD_80'].std()
 mean_3 = data['FAD_100'].mean()
 std_3 = data['FAD_100'].std()
 
-fig = plt.figure(figsize=(5, 15))  # Ajustez la taille de la figure selon vos besoins
+fig = plt.figure(figsize=(5, 15))
 ax1 = fig.add_subplot(313)  # Premier sous-graphique
 ax2 = fig.add_subplot(312)  # Deuxième sous-graphique
 ax3 = fig.add_subplot(311)  # Troisième sous-graphique
@@ -391,8 +328,4 @@ ax3.set_yticks([98, 100, 102])
 ax3.xaxis.set_visible(False)
 ax2.set_ylabel('Cadence (RPM)')
 
-# Afficher le graphique
-#plt.show()
-
 plt.savefig('variabilite_cadence.png')
-"""
