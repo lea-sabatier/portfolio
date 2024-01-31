@@ -149,7 +149,7 @@ coeff_pearson,_ = pearsonr(df_total_pearson['cad_lode'],df_total_pearson['cad_as
 #Ajout du coefficient au dataframe final
 df_resultat_cad['pearson'] = coeff_pearson
 
-with pd.ExcelWriter('C:/Users/Sabatier Léa/Documents/Stage INSEP/Donnees_test/RESULTATS/resultat_validite_GM2.xlsx') as writer: #mettre f devant nom du fichier pour pouvoir insérer des expressions dans des chaînes de caractères {} 
+with pd.ExcelWriter('C:/Users/Sabatier Léa/RESULTATS/resultat_validite_GM.xlsx') as writer:
     df_resultat_ass.to_excel(writer,sheet_name='resultat_po_test_assioma')  
     df_resultat_test_cst.to_excel(writer,sheet_name='resultat_po_test_cst', index=False) 
     df_resultat_cad.to_excel(writer, sheet_name='resultat_cadence', index=False)
