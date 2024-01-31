@@ -69,11 +69,9 @@ for dossier in os.listdir('.'):
                                 'SD LOD' : SD_lod.values, 'Mean FAD': mean_ass.values, 'SD FAD' : SD_ass.values}
 
                     resultat_sujet_cad = pd.DataFrame(resultat_cad)  
-                    resultat_final_cad = pd.concat([resultat_final_cad, resultat_sujet_cad])                   
-
-     
-                     
-with pd.ExcelWriter('C:/Users/Sabatier Léa/Documents/Stage INSEP/Donnees_test/RESULTATS/fichier_reliability_test_ass_avt_powerbi2.xlsx') as writer: #mettre f devant nom du fichier pour pouvoir insérer des expressions dans des chaînes de caractères {} 
+                    resultat_final_cad = pd.concat([resultat_final_cad, resultat_sujet_cad])         
+                        
+with pd.ExcelWriter('C:/Users/Sabatier Léa/RESULTATS/fichier_reliability_test_ass_avt_powerbi2.xlsx') as writer:
     resultat_final.to_excel(writer,sheet_name='resultat_po') 
     resultat_final_cad.to_excel(writer,sheet_name='resultat_cad')   
 
