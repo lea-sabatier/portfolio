@@ -8,8 +8,8 @@ The report has been split into several tabs: context, customer service, partners
 
 
 ### Tabs
-- **Context Tab**
-Provides information and insights into the Brazilian market, with a particular focus on e-commerce.
+- **Context Tab**  
+  Provides information and insights into the Brazilian market, with a particular focus on e-commerce.
 
 - **Customer service Tab**
 - **Partners Tab**
