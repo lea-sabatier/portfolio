@@ -6,7 +6,10 @@ This project involved the statistical analysis of power and cadence data from 2 
 Experienced cyclists came to the laboratory 9 times to carry out tests. During these tests, data was collected at different power levels and cadences for further analysis.
 
 ## Project progress
-
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ### Interpolation of ergometer data 
 The output files for the experimental protocol were in Excel format (ergometer and pedals included). 
 Firstly, the ergometer data had to be interpolated to the second, as the pedals collected data per second. This work can be seen in the script entitled "interpolation_ergometer".
@@ -36,7 +39,3 @@ The "graphics" script contains all the graphs presented in my report. Boxplots a
 ### Function script
 A script named "function" contains all the functions used in the various scripts. Each function has a "docstring" to explain how it works. 
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
