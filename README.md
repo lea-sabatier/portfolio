@@ -50,7 +50,7 @@ Below you will find some of the projects I have developed.
 - Dataiku
   
 #### ETL
-- Talend
+- KNIME
 
 #### Version Control
 - Git
@@ -58,7 +58,6 @@ Below you will find some of the projects I have developed.
 #### RGPD
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
