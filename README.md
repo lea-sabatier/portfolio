@@ -51,6 +51,7 @@ Below you will find some of the projects I have developed.
   
 #### ETL
 - KNIME
+- Talend
 
 #### Version Control
 - Git
