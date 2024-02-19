@@ -13,11 +13,13 @@ Below you will find some of the projects I have developed.
 - query SQL databases
 - make requests via API REST
 - geocoding
+- webscraping
 
 #### Data Processing
 - using python algorithms 
 - library Numpy, Pandas, Matplotlib, Seaborn
 - reprocess missing values and outliers
+- Regex
 
 #### Data modeling and presentation
 - statistics
@@ -38,26 +40,22 @@ Below you will find some of the projects I have developed.
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 ### What I will know at the end of my training 🚀
 ---------------
-#### Data Collecting
-- Webscraping
-
 #### Data Processing
 - Machine Learning (Scikit-Learn)
-- Regex
-- Dataiku
-  
+ 
 #### ETL
-- KNIME
 - Talend
+  
+#### Data science platform
+- KNIME
+- Dataiku
 
 #### Version Control
 - Git
 
 #### RGPD
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
