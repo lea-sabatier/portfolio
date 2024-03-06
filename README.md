@@ -26,6 +26,12 @@ Below you will find some of the projects I have developed.
 - create dashboards with PowerBi & Tableau
 - Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
 
+#### Data science platform  
+- Dataiku
+
+#### Version Control
+- Git
+  
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,26 +45,20 @@ Below you will find some of the projects I have developed.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### What I will know at the end of my training 🚀
 ---------------
 #### Data Processing
 - Machine Learning (Scikit-Learn)
- 
-#### ETL
-- Talend
-  
+   
 #### Data science platform
 - KNIME
-- Dataiku
-
-#### Version Control
-- Git
 
 #### RGPD
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---------------
 ## My projects
