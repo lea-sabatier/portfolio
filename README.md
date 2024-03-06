@@ -52,9 +52,6 @@ Below you will find some of the projects I have developed.
 ---------------
 #### Data Processing
 - Machine Learning (Scikit-Learn)
-   
-#### Data science platform
-- KNIME
 
 #### RGPD
 
