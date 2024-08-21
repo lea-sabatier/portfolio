@@ -23,11 +23,14 @@ Below you will find some of the projects I have developed.
 
 #### Data modeling and presentation
 - statistics
-- create dashboards with PowerBi & Tableau
+- create dashboards with PowerBi (Power Query, DAX)
 - Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
 
 #### Data science platform  
 - Dataiku
+
+#### ETL
+- Azure Data Factory
 
 #### Version Control
 - Git
@@ -47,15 +50,6 @@ Below you will find some of the projects I have developed.
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### What I will know at the end of my training 🚀
----------------
-#### Data Processing
-- Machine Learning (Scikit-Learn)
-
-#### RGPD
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---------------
 ## My projects
