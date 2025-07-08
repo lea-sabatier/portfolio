@@ -23,7 +23,7 @@ Below you will find some of the projects I have developed.
 
 #### Data modeling and presentation
 - statistics
-- create dashboards with PowerBi (Power Query, DAX)
+- create dashboards with PowerBi (Power Query, DAX) or Qlik Sense
 - Handling interactive and dynamic Dataviz and cartography with Plotly, Streamlit and Folium
 
 #### Data science platform  
@@ -31,6 +31,7 @@ Below you will find some of the projects I have developed.
 
 #### ETL
 - Azure Data Factory
+- Talend
 
 #### Version Control
 - Git
@@ -51,6 +52,8 @@ Below you will find some of the projects I have developed.
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=fff&style=flat)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=fff&style=flat)
 
 ---------------
 ## My projects
