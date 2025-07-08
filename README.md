@@ -52,7 +52,7 @@ Below you will find some of the projects I have developed.
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Qlik](https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=fff&style=flat)
+![Qlik](https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=fff&style=flat-square)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=fff&style=flat)
 
 ---------------
